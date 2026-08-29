@@ -21,21 +21,27 @@ class BayesianAkinatorEngine:
     
     def update_beliefs(self, probabilities: np.ndarray, question_id: str, user_answer: str) -> np.ndarray:
         weight_map = {
-            "yes": 1.0,
+            "yes": 0.95,
             "probably": 0.75,
             "unknown": 0.5,
             "probably_not": 0.25,
-            "no": 0.0
+            "no": 0.05
         }
-        target = weight_map.get(user_answer.lower(), 0.5)
+        
+        target_prob = weight_map.get(user_answer.lower(), 0.5)
         q_idx = self.question_ids.index(question_id)
-        likelihood = 1.0 - np.abs(self.matrix[:,q_idx]-target)
-        updated_probs = likelihood*probabilities
+        entity_traits = self.matrix[:, q_idx]
+        
+        likelihood = (target_prob * entity_traits) + ((1.0 - target_prob) * (1.0 - entity_traits))
+        
+        updated_probs = likelihood * probabilities
         total = np.sum(updated_probs)
+        
         if total > 0:
             return updated_probs / total
         else:
             return np.full(self.num_entities, 1.0 / self.num_entities)
+        
         
     def get_next_best_question(self, probabilities: np.ndarray, asked_q_ids: List[str]) -> Optional[HeritageQuestion]:
         current_h = self.calculate_entropy(probabilities)
