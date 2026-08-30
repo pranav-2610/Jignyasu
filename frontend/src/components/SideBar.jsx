@@ -1,4 +1,4 @@
-export default function SideBar({ regionName, results, onPick, onClose }) {
+export default function Sidebar({ regionName, results, onPick, onClose }) {
   return (
     <div className="jg-sidebar">
       <div className="jg-sidebar-header">
