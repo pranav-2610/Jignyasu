@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback } from "react";
 import { ComposableMap, Geographies, Geography, Marker } from "react-simple-maps";
 import { geoCentroid } from "d3-geo";
 import { fetchEntity, fetchPins, fetchNearby } from "../api/entities";
-import {Sidebar} from "./Sidebar.jsx";
+import Sidebar from "./Sidebar.jsx";
 import TimelineSlider from "./TimelineSlider";
 
 const INDIA_TOPO_JSON =
