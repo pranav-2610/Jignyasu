@@ -1,0 +1,230 @@
+[
+  {
+    "entity_id": "rama",
+    "spatial_coordinates": { "name": "Ayodhya, Uttar Pradesh", "latitude": 26.7922, "longitude": 82.1998 },
+    "timeline": [
+      { "label": "Birth", "era": "Treta Yuga (mythic)", "year_estimate": null, "description": "Born in Ayodhya to King Dasharatha.", "source": "Ramayana" },
+      { "label": "Exile begins", "era": "Treta Yuga (mythic)", "year_estimate": null, "description": "14-year exile to the forest begins.", "source": "Ramayana" },
+      { "label": "Coronation", "era": "Treta Yuga (mythic)", "year_estimate": null, "description": "Returns to Ayodhya and is crowned king.", "source": "Ramayana" }
+    ]
+  },
+  {
+    "entity_id": "sita",
+    "spatial_coordinates": { "name": "Janakpur, Mithila", "latitude": 26.7288, "longitude": 85.9266 },
+    "timeline": [
+      { "label": "Birth (Mithila tradition)", "era": "Treta Yuga (mythic)", "year_estimate": null, "description": "Found by King Janaka while ploughing a sacrificial field near Janakpur.", "source": "Ramayana", "region": "Mithila / Nepal tradition" },
+      { "label": "Birth (Bihar tradition)", "era": "Treta Yuga (mythic)", "year_estimate": null, "description": "Local tradition places the same event at Sitamarhi, Bihar, rather than Janakpur.", "source": "Regional oral tradition", "region": "Bihar tradition" },
+      { "label": "Agni Pariksha", "era": "Treta Yuga (mythic)", "year_estimate": null, "description": "Trial by fire after the war in Lanka.", "source": "Ramayana" }
+    ]
+  },
+  {
+    "entity_id": "hanuman",
+    "spatial_coordinates": { "name": "Anjaneri Hill, Maharashtra", "latitude": 19.9975, "longitude": 73.7898 },
+    "timeline": [
+      { "label": "Birth (Maharashtra tradition)", "era": "Treta Yuga (mythic)", "year_estimate": null, "description": "Anjaneri, near Nashik, is widely held in Maharashtra as Hanuman's birthplace.", "source": "Regional tradition", "region": "Maharashtra tradition" },
+      { "label": "Birth (Karnataka tradition)", "era": "Treta Yuga (mythic)", "year_estimate": null, "description": "Anjanadri Hill near Hampi is held in Karnataka as the birthplace instead.", "source": "Regional tradition", "region": "Karnataka tradition" },
+      { "label": "Leap to Lanka", "era": "Treta Yuga (mythic)", "year_estimate": null, "description": "Crosses the ocean to find Sita in Lanka.", "source": "Ramayana" }
+    ]
+  },
+  {
+    "entity_id": "krishna",
+    "spatial_coordinates": { "name": "Mathura, Uttar Pradesh", "latitude": 27.4924, "longitude": 77.6737 },
+    "timeline": [
+      { "label": "Birth", "era": "Dvapara Yuga (mythic)", "year_estimate": null, "description": "Born in Mathura, raised in Vrindavan.", "source": "Bhagavata Purana" },
+      { "label": "Bhagavad Gita discourse", "era": "Dvapara Yuga (mythic)", "year_estimate": null, "description": "Delivers the Gita to Arjuna at Kurukshetra.", "source": "Bhagavad Gita" }
+    ]
+  },
+  {
+    "entity_id": "arjuna",
+    "spatial_coordinates": { "name": "Hastinapura, Uttar Pradesh", "latitude": 29.1668, "longitude": 78.0088 },
+    "timeline": [
+      { "label": "Kurukshetra War", "era": "Dvapara Yuga (mythic)", "year_estimate": null, "description": "Leads the Pandava forces at Kurukshetra.", "source": "Mahabharata" }
+    ]
+  },
+  {
+    "entity_id": "bhishma",
+    "spatial_coordinates": { "name": "Hastinapura, Uttar Pradesh", "latitude": 29.1668, "longitude": 78.0088 },
+    "timeline": [
+      { "label": "Vow of celibacy", "era": "Dvapara Yuga (mythic)", "year_estimate": null, "description": "Takes a lifelong vow so his father can remarry.", "source": "Mahabharata" },
+      { "label": "Fall at Kurukshetra", "era": "Dvapara Yuga (mythic)", "year_estimate": null, "description": "Struck down on the bed of arrows.", "source": "Mahabharata" }
+    ]
+  },
+  {
+    "entity_id": "draupadi",
+    "spatial_coordinates": { "name": "Kampilya, Panchala (near Kampil, UP)", "latitude": 27.8285, "longitude": 79.2966 },
+    "timeline": [
+      { "label": "Swayamvara", "era": "Dvapara Yuga (mythic)", "year_estimate": null, "description": "Won by Arjuna at her father's archery contest.", "source": "Mahabharata" }
+    ]
+  },
+  {
+    "entity_id": "duryodhana",
+    "spatial_coordinates": { "name": "Hastinapura, Uttar Pradesh", "latitude": 29.1668, "longitude": 78.0088 },
+    "timeline": [
+      { "label": "Game of dice", "era": "Dvapara Yuga (mythic)", "year_estimate": null, "description": "Orchestrates the dice game that exiles the Pandavas.", "source": "Mahabharata" }
+    ]
+  },
+  {
+    "entity_id": "karna",
+    "spatial_coordinates": { "name": "Champanagari (Bhagalpur), Bihar", "latitude": 25.2445, "longitude": 87.0092 },
+    "timeline": [
+      { "label": "Crowned King of Anga", "era": "Dvapara Yuga (mythic)", "year_estimate": null, "description": "Made king of Anga by Duryodhana.", "source": "Mahabharata" }
+    ]
+  },
+  {
+    "entity_id": "ravana",
+    "spatial_coordinates": { "name": "Lanka (traditionally identified with Sri Lanka)", "latitude": 7.8731, "longitude": 80.7718 },
+    "timeline": [
+      { "label": "Abducts Sita", "era": "Treta Yuga (mythic)", "year_estimate": null, "description": "Takes Sita to Lanka, triggering the war.", "source": "Ramayana" },
+      { "label": "Death", "era": "Treta Yuga (mythic)", "year_estimate": null, "description": "Slain by Rama.", "source": "Ramayana" }
+    ]
+  },
+  {
+    "entity_id": "vyasa",
+    "spatial_coordinates": { "name": "Kalpi, Uttar Pradesh (traditional site)", "latitude": 26.1259, "longitude": 79.7382 },
+    "timeline": [
+      { "label": "Composition of the Mahabharata", "era": "Dvapara Yuga (mythic)", "year_estimate": null, "description": "Traditionally credited as author/compiler.", "source": "Mahabharata" }
+    ]
+  },
+  {
+    "entity_id": "valmiki",
+    "spatial_coordinates": { "name": "Valmiki Ashram, near Chitrakoot", "latitude": 25.2001, "longitude": 80.8407 },
+    "timeline": [
+      { "label": "Composition of the Ramayana", "era": "Treta Yuga (mythic)", "year_estimate": null, "description": "Traditionally credited as the first poet (Adi Kavi).", "source": "Ramayana" }
+    ]
+  },
+  {
+    "entity_id": "shiva",
+    "spatial_coordinates": { "name": "Mount Kailash", "latitude": 31.0672, "longitude": 81.3119 },
+    "timeline": [
+      { "label": "Cosmic residence", "era": "Timeless (mythic)", "year_estimate": null, "description": "Held as the eternal abode of Shiva.", "source": "Puranas" }
+    ]
+  },
+  {
+    "entity_id": "mahabali",
+    "spatial_coordinates": { "name": "Thrikkakara, Kerala", "latitude": 10.0345, "longitude": 76.3212 },
+    "timeline": [
+      { "label": "Pushed underworld by Vamana", "era": "Mythic", "year_estimate": null, "description": "Sent to the netherworld after his kingdom is measured away in three steps.", "source": "Bhagavata Purana" },
+      { "label": "Annual return (Onam)", "era": "Present-day, annual", "year_estimate": null, "description": "Celebrated yearly in Kerala as his annual visit to his former subjects.", "source": "Kerala folk tradition" }
+    ]
+  },
+  {
+    "entity_id": "chandragupta_maurya",
+    "spatial_coordinates": { "name": "Pataliputra (Patna), Bihar", "latitude": 25.6127, "longitude": 85.1445 },
+    "timeline": [
+      { "label": "Founded Maurya Empire", "era": "c. 321 BCE", "year_estimate": -321, "description": "Overthrew the Nanda dynasty with Chanakya's guidance.", "source": "Mudrarakshasa" }
+    ]
+  },
+  {
+    "entity_id": "chanakya",
+    "spatial_coordinates": { "name": "Takshashila (Taxila)", "latitude": 33.7382, "longitude": 72.7864 },
+    "timeline": [
+      { "label": "Teacher at Takshashila", "era": "4th century BCE", "year_estimate": -350, "description": "Taught and later engineered Chandragupta's rise to power.", "source": "Arthashastra" }
+    ]
+  },
+  {
+    "entity_id": "ashoka_the_great",
+    "spatial_coordinates": { "name": "Pataliputra (Patna), Bihar", "latitude": 25.6127, "longitude": 85.1445 },
+    "timeline": [
+      { "label": "Coronation", "era": "c. 268 BCE", "year_estimate": -268, "description": "Becomes emperor of the Maurya dynasty.", "source": "Edicts of Ashoka" },
+      { "label": "Kalinga War & conversion to Buddhism", "era": "c. 261 BCE", "year_estimate": -261, "description": "Renounces violent conquest after the Kalinga War.", "source": "Edicts of Ashoka" }
+    ]
+  },
+  {
+    "entity_id": "kalidasa",
+    "spatial_coordinates": { "name": "Ujjain, Madhya Pradesh (traditionally associated)", "latitude": 23.1793, "longitude": 75.7849 },
+    "timeline": [
+      { "label": "Active at the Ujjain court", "era": "Disputed, c. 4th-5th century CE", "year_estimate": null, "description": "Exact period debated among historians; traditionally linked to a King Vikramaditya.", "source": "Abhijnanashakuntalam" }
+    ]
+  },
+  {
+    "entity_id": "samudragupta",
+    "spatial_coordinates": { "name": "Pataliputra (Patna), Bihar", "latitude": 25.6127, "longitude": 85.1445 },
+    "timeline": [
+      { "label": "Reign begins", "era": "c. 335 CE", "year_estimate": 335, "description": "Expands the Gupta Empire across much of the subcontinent.", "source": "Allahabad Pillar Inscription" }
+    ]
+  },
+  {
+    "entity_id": "harshavardhana",
+    "spatial_coordinates": { "name": "Kannauj, Uttar Pradesh", "latitude": 27.0499, "longitude": 79.9160 },
+    "timeline": [
+      { "label": "Reign begins", "era": "606 CE", "year_estimate": 606, "description": "Establishes Kannauj as his capital.", "source": "Harshacharita" }
+    ]
+  },
+  {
+    "entity_id": "raja_raja_chola_i",
+    "spatial_coordinates": { "name": "Thanjavur, Tamil Nadu", "latitude": 10.7870, "longitude": 79.1378 },
+    "timeline": [
+      { "label": "Brihadisvara Temple built", "era": "c. 1010 CE", "year_estimate": 1010, "description": "Commissions the great temple at Thanjavur.", "source": "Thanjavur Inscriptions" }
+    ]
+  },
+  {
+    "entity_id": "aryabhata",
+    "spatial_coordinates": { "name": "Kusumapura (Pataliputra), Bihar", "latitude": 25.6127, "longitude": 85.1445 },
+    "timeline": [
+      { "label": "Aryabhatiya composed", "era": "499 CE", "year_estimate": 499, "description": "Foundational text of Indian mathematics and astronomy.", "source": "Aryabhatiya" }
+    ]
+  },
+  {
+    "entity_id": "kanishka",
+    "spatial_coordinates": { "name": "Purushapura (Peshawar)", "latitude": 34.0151, "longitude": 71.5249 },
+    "timeline": [
+      { "label": "Reign begins", "era": "Disputed, c. 127-150 CE", "year_estimate": null, "description": "Exact accession year is a long-running scholarly dispute.", "source": "Rabatak Inscription" }
+    ]
+  },
+  {
+    "entity_id": "panini",
+    "spatial_coordinates": { "name": "Shalatula (near modern Attock, Pakistan)", "latitude": 33.7667, "longitude": 72.3667 },
+    "timeline": [
+      { "label": "Ashtadhyayi composed", "era": "c. 4th-6th century BCE (disputed)", "year_estimate": null, "description": "Foundational Sanskrit grammar; exact dating remains debated.", "source": "Ashtadhyayi" }
+    ]
+  },
+  {
+    "entity_id": "mariamman",
+    "spatial_coordinates": { "name": "Samayapuram, Tamil Nadu", "latitude": 10.9310, "longitude": 78.7256 },
+    "timeline": [
+      { "label": "Worship tradition established", "era": "Time-depth unclear, pre-colonial", "year_estimate": null, "description": "Village goddess associated with rain, fertility, and protection from disease.", "source": "South Indian Village Traditions" }
+    ]
+  },
+  {
+    "entity_id": "madurai_veeran",
+    "spatial_coordinates": { "name": "Madurai, Tamil Nadu", "latitude": 9.9252, "longitude": 78.1198 },
+    "timeline": [
+      { "label": "Legend set", "era": "Traditionally placed in the Nayak period", "year_estimate": null, "description": "Folk hero-deity celebrated in Tamil ballad traditions.", "source": "Madurai Veeran Kathai" }
+    ]
+  },
+  {
+    "entity_id": "khandoba",
+    "spatial_coordinates": { "name": "Jejuri, Maharashtra", "latitude": 18.2667, "longitude": 74.1667 },
+    "timeline": [
+      { "label": "Principal shrine established", "era": "Time-depth unclear", "year_estimate": null, "description": "Major pilgrimage site for this Deccan folk form of Shiva.", "source": "Malhari Mahatmya" }
+    ]
+  },
+  {
+    "entity_id": "renuka_yellamma",
+    "spatial_coordinates": { "name": "Saundatti, Karnataka", "latitude": 15.7833, "longitude": 75.1167 },
+    "timeline": [
+      { "label": "Principal shrine established", "era": "Time-depth unclear", "year_estimate": null, "description": "Major Deccan pilgrimage site linked to the Parashurama legend.", "source": "Deccan Regional Folklore" }
+    ]
+  },
+  {
+    "entity_id": "veer_teja",
+    "spatial_coordinates": { "name": "Parbatsar, Rajasthan", "latitude": 26.9333, "longitude": 74.7833 },
+    "timeline": [
+      { "label": "Legend set", "era": "Traditionally medieval Rajasthan", "year_estimate": null, "description": "Folk hero-deity of Rajasthan, worshipped for protection against snakebite.", "source": "Rajasthani Folk Ballads" }
+    ]
+  },
+  {
+    "entity_id": "pabuji",
+    "spatial_coordinates": { "name": "Kolu, Rajasthan", "latitude": 27.1330, "longitude": 72.3667 },
+    "timeline": [
+      { "label": "Legend set", "era": "Traditionally c. 14th century CE", "year_estimate": null, "description": "Subject of the Pabuji Ki Phad, a long oral epic performed with a painted scroll.", "source": "Pabuji Ki Phad" }
+    ]
+  },
+  {
+    "entity_id": "koragajja",
+    "spatial_coordinates": { "name": "Mangaluru region, Karnataka (Tulu Nadu)", "latitude": 12.9141, "longitude": 74.8560 },
+    "timeline": [
+      { "label": "Worship tradition established", "era": "Time-depth unclear", "year_estimate": null, "description": "Spirit-deity central to Tulu Nadu's Bhuta Kola tradition.", "source": "Tulu Paddanas" }
+    ]
+  }
+]
