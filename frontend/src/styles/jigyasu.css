@@ -27,7 +27,16 @@
   min-height: 100vh;
   display: flex;
   justify-content: center;
-  background: radial-gradient(ellipse at top, var(--jg-bg-start) 0%, var(--jg-bg-end) 70%);
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(
+    180deg,
+    #0B0906 0%,
+    #211C18 32%,
+    #5A3E1C 62%,
+    #8A6420 82%,
+    #C9A227 100%
+  );
 }
 .jg-shell { width: 100%; max-width: 560px; }
 .jg-screen { display: flex; flex-direction: column; align-items: center; padding: 28px 20px 40px; gap: 26px; }
